@@ -5,7 +5,10 @@ import org.junit.Test;
 public class JavaFirst {
 
 	@Test
-	public void testHelloWrold() {
+	public void testHelloWorld() {
+		System.out.println("HelloWorld!");
+		System.out.println("HelloWorld!");
+		System.out.println("HelloWorld!");
 		System.out.println("HelloWorld!");
 	}
 }
